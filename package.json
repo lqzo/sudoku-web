@@ -2,7 +2,7 @@
   "name": "sudoku",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<USERNAME>.github.io/sudoku",
+  "homepage": "https://lqzo.github.io/sudoku-web",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -40,7 +40,6 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.30.1",
     "vite": "^6.3.5",
-    "vite-plugin-trae-solo-badge": "^1.0.0",
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
